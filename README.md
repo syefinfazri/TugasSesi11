@@ -10,5 +10,7 @@
 - Dosen Pengampu: Shinta Ayuningtias, S.Kom., M.Kom 
 # Penjelasan
 
-- Apakah minIndex berpindah di setiap iterasi?
-  Tidak selalu. minIndex hanya berubah jika ditemukan nilai yang lebih kecil dari elemen sebelumnya.
+1. Aktivitas 1 - Apakah minIndex berpindah di setiap iterasi?
+- Tidak selalu. minIndex hanya berubah jika ditemukan nilai yang lebih kecil dari elemen sebelumnya.
+   
+  
