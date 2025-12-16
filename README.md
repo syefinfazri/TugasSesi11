@@ -11,4 +11,4 @@
 # Penjelasan
 
 - Apakah minIndex berpindah di setiap iterasi?
-- Tidak selalu. minIndex hanya berubah jika ditemukan nilai yang lebih kecil dari elemen sebelumnya.
+  Tidak selalu. minIndex hanya berubah jika ditemukan nilai yang lebih kecil dari elemen sebelumnya.
