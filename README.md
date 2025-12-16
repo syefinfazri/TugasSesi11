@@ -27,4 +27,5 @@
 - b. Sesudah sorting: Andi Budi Cindy Doni Eka
 - c. Bagaimana Selection Sort membandingkan String? Menggunakan metode compareTo() atau compareToIgnoreCase() berdasarkan urutan alfabet (ASCII/Unicode).
 # Mini Project Selection Sort
+- File Output Mini Project Selection.png merupakan output hasil dari MiniProjectSelectionSort.java
   
